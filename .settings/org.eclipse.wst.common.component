@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="hostelmerge-22-feb">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="java-output-path" value="/hostelmerge-22-feb/build/classes"/>
+        <property name="context-root" value="hostelmerge-22-feb"/>
+    </wb-module>
+</project-modules>
